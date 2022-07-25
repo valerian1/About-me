@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 Reach me on Twitter:  @akaghostplayer1
+- 📫 Reach me on Twitter:  @valeriandevs
 
 <!---
 valerian1/valerian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
