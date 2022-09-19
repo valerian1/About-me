@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valerian
-- 👀 I’m interested in Software Developement
+- 👀 I’m interested in IOS Developement
 - 🌱 I’m currently learning SwiftUI
 - 🤝 I’m looking to collaborate on interesting projects
 - 📫 Reach me on Twitter:  @valeriandevs
